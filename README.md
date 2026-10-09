@@ -1,6 +1,5 @@
 # Expense Tracker Web App
-# 🚀 Project 12 of my 30  JavaScript Projects Challenge. 
-# Expense Tracker Web App
+Project 12 of my 30  JavaScript Projects Challenge. 
 
 Continuing my 30 Days JavaScript Challenge, I built an Expense Tracker Web App using Vanilla JavaScript and Local Storage.
 
