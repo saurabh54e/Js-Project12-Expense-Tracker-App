@@ -1,4 +1,5 @@
-# 🚀 Day 12/30 – Expense Tracker Web App
+# 🚀 Project 12 of my 30  JavaScript Projects Challenge. 
+# Expense Tracker Web App
 
 Continuing my 30 Days JavaScript Challenge, I built an Expense Tracker Web App using Vanilla JavaScript and Local Storage.
 
@@ -42,7 +43,7 @@ Continuing my 30 Days JavaScript Challenge, I built an Expense Tracker Web App u
 
 ## Live Demo
 
-> (https://saurabh54e.github.io/Js-Day12-Expense-Tracker-App/)
+> (https://saurabh54e.github.io/Js-Project12-Expense-Tracker-App/)
 
 ## Author
 
