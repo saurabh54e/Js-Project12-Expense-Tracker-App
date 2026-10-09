@@ -55,13 +55,13 @@ The application uses a state-driven approach with JavaScript objects, arrays, an
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project12-Expense-Tracker-App/)
+(https://saurabh54e.github.io/Js-Project12-Expense-Tracker-App/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project12-Expense-Tracker-App/)
+(https://github.com/saurabh54e/Js-Project12-Expense-Tracker-App/)
 
 ---
 
